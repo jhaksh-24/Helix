@@ -1,0 +1,14 @@
+[package]
+name = "helix-lang"
+version = "0.1.0"
+edition = "2021"
+authors = ["Akshat Kumar Jha"]
+description = "HelixLang — A systems programming language optimized for HFT"
+
+[dependencies]
+# Phase 4 dependencies (added when you get there)
+# For now, this is a placeholder so the workspace compiles
+
+[[bin]]
+name = "helixc"
+path = "src/main.rs"

@@ -1,0 +1,3 @@
+[workspace]
+members = ["helix-os", "helix-lang"]
+resolver = "2"
